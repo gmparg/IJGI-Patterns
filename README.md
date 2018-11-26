@@ -16,4 +16,4 @@ For each different function in the example (shopping experience, leisure, walkab
 
 # Spatial and Statistical Analysis Results
 
-**results.csv**: contains all numerical results of the spatial and statistical analysis for the experiment in the paper
+**results-000/1/2.csv**: contains all numerical results of the spatial and statistical analysis for the experiment in the paper, split into 3 files to respect GitHub file size limit
