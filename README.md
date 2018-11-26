@@ -15,3 +15,5 @@ For each different function in the example (shopping experience, leisure, walkab
 * **shopping_experience_learned_query.pl and all other files ending with _query_**: These are like the previous one but with the addition of the relevant queries to derive conditional probabilities, given that the particular function is supported.
 
 # Spatial and Statistical Analysis Results
+
+**results.csv**: contains all numerical results of the spatial and statistical analysis for the experiment in the paper
