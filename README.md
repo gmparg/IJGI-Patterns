@@ -1,4 +1,4 @@
-# Flexible and Probabilistic Patterns of Place for Function-based Search of Space
+# Function-Based Search of Place Using Theoretical,Empirical and Probabilistic Patterns
 
 ## Supplementary Material
 
