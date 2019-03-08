@@ -1,5 +1,7 @@
-# Function-Based Search of Place Using Theoretical,Empirical and Probabilistic Patterns
+# Function-Based Search of Place Using Theoretical, Empirical and Probabilistic Patterns
 
+## ISPRS International Journal of Geo-Information
+## https://doi.org/10.3390/ijgi8020092
 ## Supplementary Material
 
 # ProbLog encodings
