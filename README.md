@@ -4,7 +4,7 @@
 ## https://doi.org/10.3390/ijgi8020092
 ## Supplementary Material
 
-# ProbLog encodings
+### ProbLog encodings
 
 For each different function in the example (shopping experience, leisure, walkability, accessibility to drivers and accessibility to non-drivers), there are 4 associated ProbLog files:
 
@@ -16,6 +16,6 @@ For each different function in the example (shopping experience, leisure, walkab
 
 * **shopping_experience_learned_query.pl and all other files ending with _query_**: These are like the previous one but with the addition of the relevant queries to derive conditional probabilities, given that the particular function is supported.
 
-# Spatial and Statistical Analysis Results
+### Spatial and Statistical Analysis Results
 
 **results-000/1/2.csv**: contains all numerical results of the spatial and statistical analysis for the experiment in the paper, split into 3 files to respect GitHub file size limit
